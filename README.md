@@ -2,7 +2,7 @@
 
 Ember is a simple app that helps warm your hands by utilizing your device's CPU.
 
-⚠️ I am not responsible for what happens to your device if you run this. (It shouldn't cause problems, but it could your system to become slow) ⚠️
+⚠️ I am not responsible for what happens to your device if you run this. (It shouldn't cause problems, but it could your system to become slow/hot) ⚠️
 
 ## Features
 
